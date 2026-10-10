@@ -60,7 +60,6 @@ The project applies core web engineering practices: structured HTML markup, casc
 | UI framework | Bootstrap 5.3.7 |
 | Template base | FolioOne (BootstrapMade) |
 | Repository | https://github.com/ali-ghiax/Web-Engineering-Lab-Assignment |
-| Local project folder | `FolioOne` |
 
 ### 3.1 Pages included
 
