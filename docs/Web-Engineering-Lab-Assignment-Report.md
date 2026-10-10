@@ -144,16 +144,6 @@ Six service cards: Web Pages, Social Media Design, Graphic Design, Brand Visuals
 | Web URL | https://github.com/ali-ghiax/Web-Engineering-Lab-Assignment |
 | Default branch | `main` |
 
-### 6.2 How to clone and run
-
-```bash
-git clone https://github.com/ali-ghiax/Web-Engineering-Lab-Assignment.git
-cd Web-Engineering-Lab-Assignment
-# Option A: open index.html in a browser
-# Option B: local static server
-npx serve .
-```
-
 ---
 
 ## 7. Limitations & Future Work
