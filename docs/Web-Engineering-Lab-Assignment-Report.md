@@ -20,6 +20,7 @@ pdf_options:
 **Program:** Bachelor of Software Engineering  
 **Course:** Web Engineering Lab  
 **Academic Year:** 2026  
+**Submitted to:** Sir Kazim Ullah  
 
 **GitHub Repository:** [ali-ghiax/Web-Engineering-Lab-Assignment](https://github.com/ali-ghiax/Web-Engineering-Lab-Assignment)  
 **GitHub Profile:** [github.com/ali-ghiax](https://github.com/ali-ghiax)
