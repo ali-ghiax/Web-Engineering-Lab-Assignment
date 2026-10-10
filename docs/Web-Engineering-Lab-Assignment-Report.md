@@ -101,93 +101,41 @@ The FolioOne structure (header, sections, Bootstrap grid, vendor scripts) was ke
 
 ---
 
-## 5. Student Profile (Content Used in the Website)
+## 5. Functional Description by Module
 
-| Field | Information |
-|-------|-------------|
-| Full name | Muhammad Ali Ghias |
-| Roles | Junior Software Engineer; Graphic Designer; Lead Microsoft Learn Student Ambassador (MLSA) at CUSIT |
-| Location | Peshawar, KPK, Pakistan |
-| Phone | +92 326 5763041 |
-| Email | MuhammadAli.Ghias@studentambassadors.com |
-| LinkedIn | https://www.linkedin.com/in/muhammad-ali-ghias/ |
-| GitHub | https://github.com/ali-ghiax |
-| Instagram | https://www.instagram.com/ali_ghiax/ |
-| Education | Matriculation & Intermediate — The Mardan Model School and College, Mardan; BS Software Engineering (2024–Present) — CUSIT |
-
----
-
-## 6. System Architecture
-
-```
-FolioOne/
-├── index.html, resume.html, services.html, portfolio.html,
-│   portfolio-details.html, contact.html
-├── assets/
-│   ├── css/main.css          ← primary custom styles
-│   ├── js/main.js            ← template behaviors
-│   ├── img/                  ← images & profile photos
-│   └── vendor/               ← Bootstrap, AOS, Swiper, etc.
-├── README.md
-├── docs/                     ← this report
-└── .gitignore
-```
-
-### 6.1 Technology stack
-
-| Layer | Technology |
-|-------|------------|
-| Markup | HTML5 |
-| Styling | CSS3, custom properties (theme colors), Bootstrap 5 |
-| Scripting | Vanilla JavaScript (`assets/js/main.js`) |
-| Animation / UI helpers | AOS, Typed.js, Swiper, Isotope, GLightbox, PureCounter, Waypoints |
-| Icons | Bootstrap Icons |
-| Fonts | Google Fonts (template stack) |
-| Hosting / VCS | Git + GitHub |
-
-### 6.2 Design theme
-
-- Dark portfolio theme (`#101a20` background family)  
-- Accent color: `#1387c1`  
-- Responsive Bootstrap grid and mobile navigation  
-
----
-
-## 7. Functional Description by Module
-
-### 7.1 Home
+### 5.1 Home
 
 - Typed rotating titles (Junior Software Engineer, Graphic Designer, Web Developer, Microsoft Learn Student Ambassador)  
 - Circular hero portrait with accent ring  
 - About section with background-removed portrait and neon accent line  
 - Skills cards, timeline, stats counters, testimonials carousel  
 
-### 7.2 Resume
+### 5.2 Resume
 
 - Education and experience rewritten to real academic/work background  
 - Skill bars for Graphic Design, HTML & CSS, Adobe Photoshop, C++  
 
-### 7.3 Services
+### 5.3 Services
 
 Six service cards: Web Pages, Social Media Design, Graphic Design, Brand Visuals, Microsoft Learn Workshops, Event Design (without “Learn More” links).
 
-### 7.4 Portfolio
+### 5.4 Portfolio
 
 - Filter categories: **All / Web / Apps / Code**  
 - Cards sourced from public GitHub repositories under `ali-ghiax`  
 - Open Graph preview images and links to repositories / live demos where available  
 - CTA: “View All on GitHub”  
 
-### 7.5 Contact
+### 5.5 Contact
 
 - Location, phone, email, and message form layout  
 - Professional site footer shared across pages  
 
 ---
 
-## 8. GitHub Code Details
+## 6. GitHub Code Details
 
-### 8.1 Repository information
+### 6.1 Repository information
 
 | Field | Value |
 |-------|--------|
@@ -198,7 +146,7 @@ Six service cards: Web Pages, Social Media Design, Graphic Design, Brand Visuals
 | Web URL | https://github.com/ali-ghiax/Web-Engineering-Lab-Assignment |
 | Default branch | `main` |
 
-### 8.2 How to clone and run
+### 6.2 How to clone and run
 
 ```bash
 git clone https://github.com/ali-ghiax/Web-Engineering-Lab-Assignment.git
@@ -208,60 +156,9 @@ cd Web-Engineering-Lab-Assignment
 npx serve .
 ```
 
-### 8.3 Version control highlights
-
-- Source managed with Git  
-- Remote: `origin` → GitHub repository above  
-- Initial commit message documents the portfolio assignment delivery  
-- `.gitignore` excludes temporary folders, `node_modules`, and environment files  
-
-### 8.4 Related GitHub project showcase (on Portfolio page)
-
-Selected repositories displayed on the site include (non-exhaustive):
-
-- Thermal-Receipt-Generator  
-- muhammad-ali-ghias-portfolio  
-- nexora-scientific-calculator  
-- Clothing-Website  
-- mlsa-cusit-official-website  
-- Memory-Match-Game / Tic-Tac-Toe-Game  
-- Eagle-Traders-Desktop-ERP  
-- Face_Mask_Detector  
-- Book-Management-App / Library-Management-App  
-- daily-task-tracker  
-- SRE-Major-Project  
-- Cpp_Basics_First_Semester / OOP_In_Cpp_2nd_semester  
-
-Full list: https://github.com/ali-ghiax?tab=repositories  
-
 ---
 
-## 9. Implementation Summary
-
-| Activity | Outcome |
-|----------|---------|
-| Template selection | FolioOne by BootstrapMade adopted as base |
-| Content replacement | Placeholder Brandon Johnson / FolioOne text replaced with real CV data |
-| Navigation cleanup | About & Dropdown removed from menu; About section kept on Home |
-| Social integration | GitHub, LinkedIn, Instagram wired to real profiles |
-| Portfolio rebuild | Creative placeholder items removed; GitHub projects only |
-| Visual identity | Custom footer, profile images, neon accent under About photo |
-| Documentation | README + this formal lab report |
-| Code hosting | Pushed to GitHub assignment repository |
-
----
-
-## 10. Tools & Environment
-
-- Code editor: Cursor / VS Code-compatible tooling  
-- Browser for preview and verification  
-- Git for source control  
-- GitHub for remote hosting and assignment submission  
-- Optional local preview via `npx serve`  
-
----
-
-## 11. Limitations & Future Work
+## 7. Limitations & Future Work
 
 - Contact form uses the template PHP endpoint; full backend email delivery requires server-side configuration.  
 - Portfolio cards rely on GitHub Open Graph images (internet required for previews).  
@@ -269,7 +166,7 @@ Full list: https://github.com/ali-ghiax?tab=repositories
 
 ---
 
-## 12. Conclusion
+## 8. Conclusion
 
 The Web Engineering Lab Assignment successfully delivers a professional, responsive multi-page portfolio website. Starting from the **FolioOne** Bootstrap template by **BootstrapMade**, the site was customized with authentic student data, GitHub project listings, and polished UI details. The complete source code is available at:
 
@@ -279,7 +176,7 @@ This fulfills the lab goals of applying HTML/CSS/Bootstrap structure, organizing
 
 ---
 
-## 13. References
+## 9. References
 
 1. BootstrapMade — FolioOne Template  
    https://bootstrapmade.com/folioone-bootstrap-portfolio-website-template/  
