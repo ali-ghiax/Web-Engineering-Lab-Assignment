@@ -113,6 +113,8 @@ The FolioOne structure (header, sections, Bootstrap grid, vendor scripts) was ke
 - Education and experience rewritten to real academic/work background  
 - Skill bars for Graphic Design, HTML & CSS, Adobe Photoshop, C++  
 
+<div style="page-break-before: always;"></div>
+
 ### 5.3 Services
 
 Six service cards: Web Pages, Social Media Design, Graphic Design, Brand Visuals, Microsoft Learn Workshops, Event Design (without “Learn More” links).
