@@ -191,16 +191,4 @@ This fulfills the lab goals of applying HTML/CSS/Bootstrap structure, organizing
 
 ---
 
-## Appendix A — Declaration
-
-I, **Muhammad Ali Ghias**, declare that this Web Engineering Lab Assignment portfolio website was developed/customized by me for academic submission. The FolioOne template by BootstrapMade is acknowledged as the base design. GitHub projects shown are from my public repositories under **ali-ghiax**.
-
-| | |
-|--|--|
-| **Student name** | Muhammad Ali Ghias |
-| **Date** | 10 October 2026 |
-| **Signature** | _________________________ |
-
----
-
 *End of Report — Web Engineering Lab Assignment*
