@@ -93,7 +93,6 @@ The FolioOne structure (header, sections, Bootstrap grid, vendor scripts) was ke
 - Contact details (Peshawar, phone, student ambassador email)  
 - Social links (GitHub, LinkedIn, Instagram)  
 - Portfolio content replaced with GitHub projects  
-- Footer redesigned (professional layout, no Odoo / BootstrapMade credit line as requested during customization)  
 - Profile photography (hero circular cutout; About cutout with accent neon underline)  
 - Navigation simplified (Home, Resume, Services, Portfolio, Contact)  
 
