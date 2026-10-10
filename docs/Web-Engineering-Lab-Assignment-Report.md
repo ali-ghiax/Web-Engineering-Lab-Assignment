@@ -93,7 +93,6 @@ The FolioOne structure (header, sections, Bootstrap grid, vendor scripts) was ke
 - Contact details (Peshawar, phone, student ambassador email)  
 - Social links (GitHub, LinkedIn, Instagram)  
 - Portfolio content replaced with GitHub projects  
-- Profile photography (hero circular cutout; About cutout with accent neon underline)  
 - Navigation simplified (Home, Resume, Services, Portfolio, Contact)  
 
 > **Note:** FolioOne remains the visual and structural foundation. This report acknowledges BootstrapMade as the template author.
